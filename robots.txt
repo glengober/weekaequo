@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeocheifoo.whatevertown.com/sitemap.xml
